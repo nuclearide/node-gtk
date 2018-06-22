@@ -1,0 +1,12 @@
+* {
+  font-family: Fira Code;
+}
+button {
+  border: none;
+  background: #aaaaaa;
+  color: white;
+  text-shadow: none;
+}
+button:active {
+  background: #999999;
+}

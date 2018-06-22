@@ -1,0 +1,15 @@
+{
+  "name": "node-gtk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.3.4",
+    "@types/react": "^16.4.1",
+    "fbjs": "^0.8.17",
+    "node-gir": "https://github.com/nuclearide/node-gir",
+    "react": "^16.4.1",
+    "react-reconciler": "^0.12.0",
+    "typescript": "^2.9.2"
+  }
+}

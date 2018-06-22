@@ -1,0 +1,12 @@
+"use strict";
+exports.__esModule = true;
+var Button = "GTKBUTTON";
+exports.Button = Button;
+var Box = "GTKBOX";
+exports.Box = Box;
+var ListBox = "GTKLISTBOX";
+exports.ListBox = ListBox;
+var ListItem = "GTKLISTITEM";
+exports.ListItem = ListItem;
+var Window = "GTKWINDOW";
+exports.Window = Window;
